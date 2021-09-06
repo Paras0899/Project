@@ -8,7 +8,7 @@ My this project includes following libraries:
 2) datetime
 3) pandas
 
-following where the features of the project:
+Following where the features of the project:
 1 - Menu option will be given in this system to proceed further with your choide
 2 - choose function will be given to you so as you can choose what task you want to perform and after that task it will redirect you to menu option again minimisiing the time for executing code again  and again
 3 - you can print the whole file using View inventory option given in the menu
