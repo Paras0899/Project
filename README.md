@@ -13,4 +13,4 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 # In Azur
 ![Azur](https://img.shields.io/badge/Azure-WEB-APP.svg)
 
-In This project we used azur web app and also azure resource to deploy my model 
+In This project we used azur web app and also azure resource to deploy my model . This repository consists of files required to deploy a Web App created with Flask on Microsoft Azure.
